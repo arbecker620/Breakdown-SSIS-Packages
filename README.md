@@ -8,6 +8,18 @@ Enterprises and Companies have built their data infrastrutruce and processing ar
 ## Solution
 The following CLI app seeks to breakdown the XML file SSIS  into sections inside the documentation. From this point the end user can decided how they intend to move their data flow into another tool. 
 
+
+
+
+## How to Run
+The app utilized the python package typer as apart of the CLI. The 
+
+```console
+root@b16946c7e7ab:/app# python3 app.py main '/app/'
+
+```
+The following commands outputs a markdown file named "SSIS Packages Reviewed".
+
 ## Components
 
 ### Paths
