@@ -6,9 +6,9 @@ Enterprises and Companies have built their data infrastrutruce and processing ar
 
 
 ## Solution
-The following CLI app seeks to breakdown the XML file SSIS  into sections inside the documentation. From this point the end user can decided how they intend to move their data flow into another tool. 
-
-
+The following CLI app breakdowns the XML file for  SSIS  into sections inside the documentation. From this point the end user can decided how they intend to move their data flow into another tool. 
+From the CLI, a use must provide a directory where files are located to be processed. Th eoutput of this file creates a readme file where metadata about the package can be analyzed. 
+This is not an end all solutions for engineers in gathering the info and should not be treated as such. Its merely a starting point for trying to beging an implmentation on moving data infrascture from SSIS into something else. 
 
 
 ## How to Run
